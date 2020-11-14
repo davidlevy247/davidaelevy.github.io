@@ -2,19 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://davidaelevy.com/posts/</loc>
-		<lastmod>2020-11-12T13:12:21+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://davidaelevy.com/nevada-blooms/</loc>
-		<lastmod>2020-11-12T13:12:21+00:00</lastmod>
-		<image:image>
-			<image:loc>https://davidaelevy.com/wp-content/uploads/sites/9/2019/03/Nevada_Bloom_24.jpg</image:loc>
-			<image:title><![CDATA[Nevada_Bloom_24]]></image:title>
-		</image:image>
+		<lastmod>2020-11-14T08:32:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://davidaelevy.com/building-city-center/</loc>
-		<lastmod>2020-11-12T13:12:21+00:00</lastmod>
+		<lastmod>2020-11-14T08:31:24+00:00</lastmod>
 		<image:image>
 			<image:loc>https://davidaelevy.com/wp-content/uploads/sites/9/2019/03/CityCenter_BeingBuilt_34.jpg</image:loc>
 			<image:title><![CDATA[City Center Being Built 34]]></image:title>
@@ -35,6 +27,14 @@
 		<image:image>
 			<image:loc>https://davidaelevy.com/wp-content/uploads/sites/9/2019/03/CityCenter_BeingBuilt_16.jpg</image:loc>
 			<image:caption><![CDATA[CCity Center Being Built 16]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://davidaelevy.com/nevada-blooms/</loc>
+		<lastmod>2020-11-14T08:32:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://davidaelevy.com/wp-content/uploads/sites/9/2019/03/Nevada_Bloom_24.jpg</image:loc>
+			<image:title><![CDATA[Nevada_Bloom_24]]></image:title>
 		</image:image>
 	</url>
 </urlset>
